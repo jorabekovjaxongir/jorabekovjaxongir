@@ -3,7 +3,7 @@
 
 - Telegram:                           [Jo'rabekovJaxongir](https://t.me/jaxongir229)
 ## Main tools
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,django,c#)](https://skillicons.dev)
 
 ## Other tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,postgresql,sqlite,vscode,pycharm,postman)](https://skillicons.dev)
